@@ -8,7 +8,7 @@ conf = SparkConf().setMaster("local").setAppName("RatingsHistogram")
 sc = SparkContext(conf = conf)
 
 #Read data from the text file line by line and create and RDD with each line as a string in the list
-lines = sc.textFile("file:///SparkCourse/ml-100k/u.data")
+lines = sc.textFile("file:///SparkCourse/datasets/ml-100k/u.data")
 
 #Map values of lines RDD to ratings RDD by splitting each line and isolating index [2], movie ratings
 ratings = lines.map(lambda x: x.split()[2])
