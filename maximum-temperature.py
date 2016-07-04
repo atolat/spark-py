@@ -1,4 +1,4 @@
-#This script will find the minimum temperature recorded at a station 
+#This script will find the maximum temperature recorded at a station 
 #Data Format
 '''
 Station Code, Date, Ttype, Temp,,,
@@ -11,7 +11,7 @@ from pyspark import SparkConf, SparkContext
 import collections
 
 #Set master node- local, create spark context object.
-conf = SparkConf().setMaster("local").setAppName("MinTemp")
+conf = SparkConf().setMaster("local").setAppName("MaxTemp")
 sc = SparkContext(conf = conf)
 
 #Read data from the text file line by line and create and RDD with each line as a string in the list
@@ -28,16 +28,16 @@ def parseLines(lines):
 parsedLines = lines.map(parseLines)
 
 #Filtering out min temps
-minTemps = parsedLines.filter(lambda x:x[1] == 'TMIN')
+maxTemps = parsedLines.filter(lambda x:x[1] == 'TMAX')
 
 #(station code, temp) key value pairs
-stationTemps = minTemps.map(lambda x: (x[0],x[2]))
+stationTemps = maxTemps.map(lambda x: (x[0],x[2]))
 
 #Find minimum temperature by station id
-minTemps = stationTemps.reduceByKey(lambda x,y:min(x,y))
+maxTemps = stationTemps.reduceByKey(lambda x,y:max(x,y))
 
 #Convert results to python list
-results = minTemps.collect()
+results = maxTemps.collect()
 
 for result in results:
-	print 'Station ID: '+result[0]+' Minimum Temperature: '+'{:.2f}C'.format(result[1])
+	print 'Station ID: '+result[0]+' Maximum Temperature: '+'{:.2f}C'.format(result[1])

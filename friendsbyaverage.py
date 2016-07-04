@@ -7,7 +7,7 @@ from pyspark import SparkConf, SparkContext
 import collections
 
 #Set master node- local, create spark context object.
-conf = SparkConf().setMaster("local").setAppName("FriendsByAversge")
+conf = SparkConf().setMaster("local").setAppName("FriendsByAverage")
 sc = SparkContext(conf = conf)
 
 #Read data from the text file line by line and create and RDD with each line as a string in the list
