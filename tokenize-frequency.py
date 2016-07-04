@@ -18,9 +18,15 @@ def normalizeWords(text):
 words = lines.flatMap(normalizeWords)
 
 #Calculate word frequencies
-wordFreq = words.countByValue()
+wordFreq = words.map(lambda x:(x,1))
+wordFreq = wordFreq.reduceByKey(lambda x,y: x+y)
+wordFreq = wordFreq.map(lambda (x,y):(y,x))
+wordFreqSorted = wordFreq.sortByKey()
 
-for word, count in wordFreq.items():
-	cleanWord = word.encode('ascii','ignore')
+results = wordFreqSorted.collect()
+
+for result in results:
+	count = str(result[0])
+	cleanWord = result[1].encode('ascii','ignore')
 	if(cleanWord):
-		print cleanWord,count
+		print cleanWord+ ":\t\t" +count
