@@ -1,6 +1,6 @@
 
 from pyspark import SparkConf, SparkContext
-import collections
+import re
 
 #Set master node- local, create spark context object.
 conf = SparkConf().setMaster("local").setAppName("TokenFreq")
@@ -11,7 +11,11 @@ lines = sc.textFile("file:///SparkCourse/datasets/Book.txt")
 
 #Tokenize Data using FlatMap, each word will have a unique entry in the RDD
 #Can use regex to add complexity to split...
-words = lines.flatMap(lambda x:x.split())
+def normalizeWords(text):
+	return re.compile(r'\W+', re.UNICODE).split(text.lower())
+
+
+words = lines.flatMap(normalizeWords)
 
 #Calculate word frequencies
 wordFreq = words.countByValue()
