@@ -24,8 +24,17 @@ reqData = lines.map(parseLines)
 amtSpent = reqData.reduceByKey(lambda x,y: x+y).sortByKey()
 
 results = amtSpent.collect()
-
+print "\n---------Unsorted Results--------\n"
 for k,v in results:
+	k=str(k)
+	print "Customer ID: "+k+"\tAmount Spent: "+'{:.2f}'.format(v)
+
+
+#For Sorted Results- by amount spent
+
+sortedResults = amtSpent.map(lambda (x,y):(y,x)).sortByKey().map(lambda (x,y):(y,x)).collect()
+print "\n---------Sorted Results--------\n"
+for k,v in sortedResults:
 	k=str(k)
 	print "Customer ID: "+k+"\tAmount Spent: "+'{:.2f}'.format(v)
 
