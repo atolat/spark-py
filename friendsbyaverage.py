@@ -1,3 +1,4 @@
+#This scrpit will find the average number of friends for each age group
 #Data Format
 #ID,Name,Age,Number of Friends
 #0,Will,33,385
