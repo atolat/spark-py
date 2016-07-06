@@ -1,0 +1,1001 @@
+id,name,front_end,front_end.level,back_end,back_end.level,database,database.level
+1,Aaron,Jquery,7,Python,5,MongoDB,4
+2,Harry,Vanilla JavaScript,2,Node,2,MongoDB,10
+3,Jesse,Jquery,6,PHP,9,MySQL,6
+4,Evelyn,Angular,2,Servlets,8,MongoDB,4
+5,Heather,Jquery,9,Node,10,Oracle SQL,5
+6,Christine,Angular,5,Servlets,8,Cassandra,8
+7,Sarah,HTML/CSS/Bootstrap,9,Python,3,Cassandra,3
+8,Kathleen,Jquery,4,Python,4,MongoDB,9
+9,Ryan,Jquery,9,Python,5,MongoDB,7
+10,Lois,Vanilla JavaScript,2,PHP,5,MySQL,10
+11,Nancy,Jquery,10,Servlets,5,Cassandra,6
+12,Kathryn,Jquery,10,Servlets,9,Oracle SQL,5
+13,Denise,HTML/CSS/Bootstrap,7,PHP,1,MongoDB,2
+14,Robert,HTML/CSS/Bootstrap,1,Servlets,2,MySQL,1
+15,Patricia,Jquery,3,PHP,4,MySQL,2
+16,Melissa,Jquery,9,Python,3,MySQL,5
+17,Gerald,HTML/CSS/Bootstrap,7,Node,9,Cassandra,10
+18,Antonio,Angular,1,PHP,5,MongoDB,9
+19,Jimmy,Angular,3,Servlets,9,MongoDB,7
+20,Philip,HTML/CSS/Bootstrap,7,Servlets,7,MongoDB,9
+21,Carl,Angular,5,Node,5,Oracle SQL,1
+22,Russell,Vanilla JavaScript,8,PHP,9,MySQL,7
+23,Raymond,Jquery,4,Python,5,MySQL,5
+24,Frank,HTML/CSS/Bootstrap,3,Node,1,MongoDB,2
+25,Richard,Angular,7,Servlets,2,MySQL,7
+26,Frank,Angular,2,Python,5,MongoDB,9
+27,Joan,Jquery,10,PHP,2,MySQL,4
+28,Jonathan,Jquery,6,Servlets,6,Oracle SQL,2
+29,Eric,Angular,4,Servlets,2,Oracle SQL,3
+30,Jimmy,Vanilla JavaScript,4,PHP,8,Cassandra,9
+31,Shawn,Jquery,3,Python,9,MySQL,6
+32,Kathy,Vanilla JavaScript,5,Servlets,7,Oracle SQL,10
+33,Scott,HTML/CSS/Bootstrap,1,Python,9,MongoDB,1
+34,Diane,Angular,8,Python,2,MySQL,10
+35,Gregory,Vanilla JavaScript,8,Node,2,MongoDB,6
+36,Catherine,Vanilla JavaScript,8,Node,2,Cassandra,5
+37,Annie,Angular,7,Node,3,Cassandra,2
+38,Brian,Jquery,4,Servlets,5,MySQL,10
+39,Kevin,Vanilla JavaScript,8,Python,3,MySQL,8
+40,Jeremy,Jquery,6,Node,6,Cassandra,2
+41,Gregory,HTML/CSS/Bootstrap,10,Node,1,Cassandra,1
+42,Karen,Vanilla JavaScript,7,Servlets,5,Cassandra,10
+43,Wayne,Vanilla JavaScript,4,Node,6,Oracle SQL,5
+44,Virginia,Angular,4,Node,10,Oracle SQL,2
+45,Theresa,HTML/CSS/Bootstrap,6,Node,7,Cassandra,9
+46,Charles,Vanilla JavaScript,5,Python,10,MySQL,1
+47,Gerald,Vanilla JavaScript,5,PHP,8,MySQL,7
+48,Jacqueline,Vanilla JavaScript,8,Node,2,MySQL,2
+49,Walter,Angular,5,Node,6,MongoDB,1
+50,Maria,HTML/CSS/Bootstrap,3,Python,8,Oracle SQL,10
+51,Judy,HTML/CSS/Bootstrap,2,Python,6,MySQL,10
+52,Nicole,HTML/CSS/Bootstrap,2,Node,8,Oracle SQL,9
+53,Walter,Angular,6,Python,4,Oracle SQL,9
+54,Harry,Angular,8,PHP,1,MySQL,4
+55,Wanda,Angular,4,Servlets,8,MySQL,2
+56,Tina,Vanilla JavaScript,5,Python,6,MySQL,9
+57,Ruth,Vanilla JavaScript,6,PHP,7,Cassandra,8
+58,Kelly,Vanilla JavaScript,1,Python,7,Oracle SQL,7
+59,Martin,Angular,4,Python,4,Cassandra,3
+60,Dorothy,Jquery,6,Servlets,7,Cassandra,10
+61,Gloria,HTML/CSS/Bootstrap,4,Servlets,5,MongoDB,2
+62,Paula,Jquery,3,Node,8,MongoDB,6
+63,Ralph,Angular,4,Servlets,2,Cassandra,6
+64,Theresa,HTML/CSS/Bootstrap,7,Servlets,10,MySQL,3
+65,Earl,Vanilla JavaScript,2,PHP,6,MySQL,6
+66,Philip,HTML/CSS/Bootstrap,2,Node,1,MongoDB,8
+67,Arthur,Angular,2,PHP,1,Oracle SQL,7
+68,Martha,Angular,10,Servlets,4,Oracle SQL,7
+69,Michael,Angular,10,Servlets,3,MySQL,4
+70,Dorothy,Vanilla JavaScript,4,PHP,5,Cassandra,6
+71,Dorothy,Angular,9,Servlets,5,Oracle SQL,4
+72,Janice,Jquery,1,Node,7,MySQL,1
+73,Richard,Angular,3,Python,10,MySQL,1
+74,Martin,HTML/CSS/Bootstrap,7,PHP,7,MongoDB,1
+75,Jessica,HTML/CSS/Bootstrap,10,Python,10,MongoDB,3
+76,Randy,HTML/CSS/Bootstrap,10,PHP,3,MySQL,3
+77,Jack,Vanilla JavaScript,5,Python,7,MongoDB,7
+78,Juan,Vanilla JavaScript,3,Node,9,MongoDB,9
+79,Tina,HTML/CSS/Bootstrap,6,PHP,6,MySQL,10
+80,Daniel,Angular,4,Node,3,Cassandra,9
+81,Steve,Vanilla JavaScript,10,PHP,6,Cassandra,7
+82,Gerald,HTML/CSS/Bootstrap,5,Node,1,MySQL,5
+83,Benjamin,HTML/CSS/Bootstrap,2,Servlets,3,Cassandra,3
+84,Evelyn,Vanilla JavaScript,9,PHP,1,Oracle SQL,8
+85,Daniel,Angular,3,PHP,5,Oracle SQL,4
+86,Randy,Angular,1,Python,3,Oracle SQL,8
+87,Denise,Jquery,8,Servlets,10,Cassandra,9
+88,Philip,HTML/CSS/Bootstrap,8,PHP,9,MongoDB,9
+89,Gregory,Vanilla JavaScript,6,Python,9,Oracle SQL,9
+90,Jeffrey,Angular,2,Python,4,Cassandra,6
+91,Steve,HTML/CSS/Bootstrap,9,Python,9,MongoDB,7
+92,Joseph,Jquery,8,Servlets,6,Cassandra,3
+93,Lori,Jquery,3,Node,8,MongoDB,9
+94,Patricia,Vanilla JavaScript,7,Python,5,MongoDB,3
+95,Cheryl,Angular,7,Python,4,Cassandra,10
+96,Dorothy,Vanilla JavaScript,8,Node,4,Oracle SQL,1
+97,Carlos,Jquery,8,Servlets,10,MySQL,6
+98,Irene,Jquery,6,PHP,4,Oracle SQL,8
+99,Irene,Jquery,9,Python,4,Oracle SQL,4
+100,Shawn,HTML/CSS/Bootstrap,1,Servlets,6,MongoDB,5
+101,Nancy,Angular,4,Servlets,6,Cassandra,4
+102,Randy,HTML/CSS/Bootstrap,1,Node,8,Oracle SQL,7
+103,Scott,Angular,2,Node,6,Cassandra,9
+104,Johnny,HTML/CSS/Bootstrap,10,Servlets,1,Cassandra,7
+105,Anthony,Vanilla JavaScript,1,Servlets,10,Oracle SQL,8
+106,Richard,Vanilla JavaScript,10,PHP,7,MongoDB,9
+107,Doris,Vanilla JavaScript,6,PHP,9,MongoDB,3
+108,Kathy,Angular,6,Servlets,6,MongoDB,8
+109,Todd,Vanilla JavaScript,10,Node,3,MySQL,5
+110,Paul,Angular,1,Node,9,Oracle SQL,8
+111,Norma,Angular,1,Servlets,3,Cassandra,2
+112,Amy,Jquery,8,Servlets,4,Oracle SQL,6
+113,Stephanie,Vanilla JavaScript,3,PHP,10,Oracle SQL,4
+114,Joshua,Angular,1,Node,2,MongoDB,8
+115,Harry,Jquery,10,Servlets,5,Cassandra,6
+116,Peter,HTML/CSS/Bootstrap,7,PHP,2,MySQL,8
+117,Gary,Vanilla JavaScript,3,Python,3,MySQL,2
+118,Dennis,Jquery,6,Python,8,Oracle SQL,3
+119,Larry,Vanilla JavaScript,7,Python,3,Cassandra,8
+120,Anne,Vanilla JavaScript,5,Servlets,5,MongoDB,4
+121,Christina,Vanilla JavaScript,2,Servlets,10,MongoDB,3
+122,Joshua,Vanilla JavaScript,2,Node,8,MySQL,2
+123,Mildred,Vanilla JavaScript,9,Node,3,Oracle SQL,10
+124,Benjamin,HTML/CSS/Bootstrap,2,Servlets,3,Oracle SQL,1
+125,Lillian,HTML/CSS/Bootstrap,2,Node,6,MongoDB,3
+126,Peter,HTML/CSS/Bootstrap,3,PHP,6,Cassandra,5
+127,Patricia,HTML/CSS/Bootstrap,8,Servlets,4,MongoDB,2
+128,Helen,Angular,1,Python,8,MySQL,7
+129,Antonio,Jquery,10,PHP,8,Oracle SQL,4
+130,Mark,Vanilla JavaScript,5,PHP,2,MongoDB,10
+131,Janice,Angular,1,Servlets,4,Oracle SQL,5
+132,Jimmy,HTML/CSS/Bootstrap,10,Python,9,Oracle SQL,1
+133,Martin,Angular,3,Servlets,3,MongoDB,4
+134,Jeffrey,Vanilla JavaScript,5,Python,8,Oracle SQL,4
+135,Rachel,Vanilla JavaScript,1,Node,8,Cassandra,8
+136,Juan,Jquery,7,PHP,2,MongoDB,1
+137,Janice,Vanilla JavaScript,9,Python,1,Oracle SQL,6
+138,Carolyn,Jquery,10,Servlets,1,Oracle SQL,9
+139,Irene,Vanilla JavaScript,3,Servlets,4,Oracle SQL,1
+140,Billy,Vanilla JavaScript,1,Servlets,6,MongoDB,2
+141,Cynthia,Jquery,10,Servlets,8,MongoDB,5
+142,Sandra,Vanilla JavaScript,7,Node,9,MongoDB,4
+143,Richard,Vanilla JavaScript,1,PHP,4,Cassandra,10
+144,Lois,Jquery,1,Python,6,Oracle SQL,7
+145,Wanda,Vanilla JavaScript,1,Node,1,MongoDB,5
+146,John,Jquery,5,Servlets,9,Cassandra,1
+147,Robin,Jquery,2,PHP,2,Oracle SQL,9
+148,Margaret,Angular,9,Node,4,Cassandra,3
+149,Lois,HTML/CSS/Bootstrap,3,Node,8,MongoDB,4
+150,Antonio,Angular,10,Servlets,6,Cassandra,1
+151,Billy,Vanilla JavaScript,9,Servlets,9,Cassandra,9
+152,Diane,HTML/CSS/Bootstrap,2,PHP,1,Cassandra,2
+153,Sarah,Jquery,10,PHP,7,Cassandra,8
+154,Shirley,Jquery,10,Servlets,2,Oracle SQL,8
+155,Doris,Vanilla JavaScript,7,Python,9,Cassandra,6
+156,Jose,Vanilla JavaScript,7,Python,10,MongoDB,2
+157,Jean,Vanilla JavaScript,4,PHP,7,Cassandra,4
+158,Douglas,Vanilla JavaScript,1,Servlets,10,MySQL,10
+159,Antonio,Angular,7,Python,3,MongoDB,1
+160,Antonio,Angular,6,PHP,2,MongoDB,1
+161,Larry,Angular,10,Servlets,10,Oracle SQL,6
+162,Richard,Angular,1,Node,7,Oracle SQL,7
+163,Ralph,HTML/CSS/Bootstrap,3,PHP,10,MySQL,3
+164,Henry,HTML/CSS/Bootstrap,3,Servlets,10,Oracle SQL,7
+165,Terry,Jquery,3,PHP,1,Cassandra,4
+166,Jacqueline,Angular,9,Python,6,Cassandra,7
+167,William,Jquery,7,Servlets,3,Oracle SQL,10
+168,Timothy,Angular,3,PHP,8,Cassandra,4
+169,Kevin,HTML/CSS/Bootstrap,7,PHP,2,Oracle SQL,5
+170,Samuel,Vanilla JavaScript,10,Node,1,MySQL,9
+171,Catherine,Vanilla JavaScript,9,PHP,10,Cassandra,6
+172,Earl,Angular,3,Node,1,MongoDB,1
+173,Rebecca,Angular,8,PHP,3,Cassandra,3
+174,Jennifer,Angular,6,Servlets,8,Cassandra,9
+175,Chris,Vanilla JavaScript,1,Python,2,Cassandra,3
+176,Norma,Vanilla JavaScript,10,Python,10,MongoDB,3
+177,Jean,Vanilla JavaScript,10,Servlets,5,MongoDB,8
+178,Ashley,Jquery,8,Servlets,7,MongoDB,5
+179,Jacqueline,Angular,8,Node,7,Cassandra,2
+180,Roger,Angular,4,Servlets,8,Cassandra,1
+181,Kelly,Jquery,10,PHP,8,MongoDB,6
+182,Timothy,Jquery,5,Servlets,5,Cassandra,7
+183,Emily,Vanilla JavaScript,5,Servlets,4,Oracle SQL,1
+184,Clarence,Angular,8,Node,5,Cassandra,10
+185,Cynthia,Jquery,9,Servlets,2,Oracle SQL,10
+186,Christopher,Angular,6,Python,10,MongoDB,5
+187,Heather,Angular,5,Servlets,7,Oracle SQL,1
+188,Irene,Angular,4,Python,8,Oracle SQL,5
+189,Craig,Angular,4,PHP,6,Oracle SQL,10
+190,Kevin,HTML/CSS/Bootstrap,5,Servlets,8,Oracle SQL,6
+191,Gary,Jquery,9,PHP,4,MongoDB,4
+192,Shirley,HTML/CSS/Bootstrap,3,Python,10,MySQL,7
+193,Rachel,HTML/CSS/Bootstrap,4,Node,7,Oracle SQL,6
+194,Henry,Vanilla JavaScript,5,Servlets,10,MongoDB,1
+195,Deborah,Jquery,7,Python,3,MySQL,5
+196,Keith,Vanilla JavaScript,4,Servlets,8,MySQL,4
+197,Martin,HTML/CSS/Bootstrap,10,Python,7,MySQL,3
+198,Donna,Vanilla JavaScript,8,Python,2,MongoDB,2
+199,Ernest,Angular,10,Servlets,3,Oracle SQL,7
+200,Denise,HTML/CSS/Bootstrap,7,Python,1,Oracle SQL,2
+201,Gerald,HTML/CSS/Bootstrap,10,Node,4,MongoDB,6
+202,David,Jquery,4,Python,6,Oracle SQL,2
+203,Juan,HTML/CSS/Bootstrap,2,Python,1,Oracle SQL,5
+204,Ronald,Angular,2,Python,8,MongoDB,1
+205,Keith,HTML/CSS/Bootstrap,2,Node,4,Oracle SQL,9
+206,Phyllis,Jquery,4,Node,2,MongoDB,2
+207,Angela,Vanilla JavaScript,5,PHP,4,MongoDB,1
+208,Benjamin,Vanilla JavaScript,2,Node,7,Cassandra,8
+209,Michael,HTML/CSS/Bootstrap,2,Node,6,MySQL,2
+210,Melissa,HTML/CSS/Bootstrap,5,Node,2,Cassandra,4
+211,Rachel,HTML/CSS/Bootstrap,6,Node,2,MySQL,5
+212,Virginia,HTML/CSS/Bootstrap,3,Python,9,Cassandra,7
+213,Heather,HTML/CSS/Bootstrap,8,PHP,4,Cassandra,10
+214,Lawrence,Vanilla JavaScript,1,Python,3,Cassandra,6
+215,Judy,Angular,2,Servlets,3,MySQL,3
+216,Jesse,Vanilla JavaScript,9,Node,7,Oracle SQL,5
+217,Jesse,Angular,7,PHP,6,Oracle SQL,5
+218,Louis,Angular,1,Python,3,MySQL,1
+219,Diane,Jquery,9,Python,3,MySQL,3
+220,Nicholas,HTML/CSS/Bootstrap,10,PHP,5,Oracle SQL,6
+221,Heather,HTML/CSS/Bootstrap,6,Servlets,8,Cassandra,4
+222,Nancy,HTML/CSS/Bootstrap,9,Node,3,MySQL,4
+223,Amanda,HTML/CSS/Bootstrap,9,Node,9,MongoDB,7
+224,Steve,HTML/CSS/Bootstrap,10,PHP,1,MySQL,4
+225,Lois,Angular,3,Servlets,3,MySQL,1
+226,Christopher,Angular,7,PHP,5,Cassandra,1
+227,Anna,Vanilla JavaScript,4,PHP,4,Oracle SQL,10
+228,Judith,HTML/CSS/Bootstrap,5,Python,6,Cassandra,8
+229,Phillip,Angular,3,PHP,8,Oracle SQL,9
+230,Maria,HTML/CSS/Bootstrap,7,Python,1,MySQL,1
+231,Stephen,Jquery,1,Python,4,Oracle SQL,3
+232,Christina,Angular,8,Node,8,MySQL,1
+233,Stephen,Angular,2,Servlets,7,Oracle SQL,7
+234,Gregory,Angular,9,Servlets,2,Oracle SQL,1
+235,Kathleen,Jquery,9,PHP,1,MySQL,4
+236,Roger,Vanilla JavaScript,3,Python,6,Oracle SQL,5
+237,Fred,Angular,6,PHP,3,Cassandra,4
+238,Louise,Jquery,1,Python,4,MySQL,1
+239,Marilyn,Jquery,7,Servlets,3,Oracle SQL,5
+240,Tammy,HTML/CSS/Bootstrap,10,Python,8,MySQL,4
+241,Joshua,Jquery,7,Servlets,1,MongoDB,8
+242,Mildred,Angular,3,Node,10,MongoDB,5
+243,Marilyn,Jquery,4,Servlets,3,Cassandra,1
+244,Douglas,Vanilla JavaScript,5,Node,5,Cassandra,9
+245,Donna,HTML/CSS/Bootstrap,8,Node,7,MySQL,1
+246,Judith,Vanilla JavaScript,5,PHP,1,Cassandra,9
+247,Jack,Jquery,1,Node,6,Oracle SQL,10
+248,Jane,HTML/CSS/Bootstrap,4,Servlets,6,MongoDB,2
+249,Diana,Vanilla JavaScript,8,Servlets,4,MongoDB,6
+250,Betty,Angular,8,Node,6,Cassandra,9
+251,Arthur,Angular,8,PHP,3,Oracle SQL,10
+252,Steve,HTML/CSS/Bootstrap,10,Python,8,MongoDB,6
+253,Jessica,Angular,6,Servlets,6,MongoDB,10
+254,Jerry,HTML/CSS/Bootstrap,4,PHP,1,Oracle SQL,3
+255,Jack,HTML/CSS/Bootstrap,5,Node,9,Cassandra,4
+256,Alice,Jquery,5,Node,7,MySQL,7
+257,Rebecca,Jquery,4,PHP,7,MongoDB,6
+258,Timothy,Jquery,3,Node,6,MongoDB,7
+259,Charles,Jquery,10,PHP,3,MongoDB,6
+260,Lois,Angular,8,PHP,5,Oracle SQL,4
+261,Pamela,Jquery,2,Python,6,Oracle SQL,1
+262,Julia,Angular,5,Servlets,2,MySQL,5
+263,David,Vanilla JavaScript,3,Node,2,Cassandra,8
+264,Scott,Jquery,7,Servlets,1,Oracle SQL,8
+265,Jessica,Angular,9,Node,6,MySQL,3
+266,Kimberly,Vanilla JavaScript,3,Python,6,Cassandra,6
+267,Robin,HTML/CSS/Bootstrap,6,Python,10,MySQL,1
+268,Sandra,Jquery,5,Node,4,Cassandra,6
+269,Donald,Jquery,8,PHP,8,Cassandra,6
+270,Aaron,Angular,8,Python,7,Cassandra,6
+271,Randy,Angular,6,Python,6,Oracle SQL,5
+272,Tina,Vanilla JavaScript,8,Node,7,Cassandra,2
+273,Diana,Angular,9,PHP,7,Cassandra,3
+274,Raymond,Vanilla JavaScript,1,Node,6,MySQL,4
+275,Nancy,Vanilla JavaScript,7,Python,3,Oracle SQL,6
+276,Steven,Angular,2,Python,3,MongoDB,8
+277,Nancy,HTML/CSS/Bootstrap,1,PHP,3,MySQL,5
+278,Harold,HTML/CSS/Bootstrap,4,Servlets,3,MongoDB,6
+279,Peter,HTML/CSS/Bootstrap,4,PHP,2,Cassandra,2
+280,Ruth,HTML/CSS/Bootstrap,9,PHP,5,MongoDB,7
+281,Sean,Jquery,3,PHP,5,MySQL,9
+282,Maria,Vanilla JavaScript,3,Servlets,4,MongoDB,8
+283,Bobby,Angular,3,PHP,3,MongoDB,7
+284,Victor,Jquery,3,Node,5,MongoDB,10
+285,Victor,Jquery,4,Python,5,MongoDB,5
+286,Angela,Jquery,1,Python,5,MySQL,4
+287,Debra,HTML/CSS/Bootstrap,7,PHP,2,Oracle SQL,10
+288,Roy,Angular,7,PHP,6,Cassandra,3
+289,Joyce,Angular,4,Node,9,Oracle SQL,6
+290,Bonnie,HTML/CSS/Bootstrap,1,PHP,2,MongoDB,4
+291,Denise,HTML/CSS/Bootstrap,5,PHP,3,Oracle SQL,8
+292,Sara,Jquery,2,Servlets,8,Oracle SQL,5
+293,Lois,Angular,9,Node,10,Oracle SQL,10
+294,Wanda,Jquery,1,PHP,8,Oracle SQL,10
+295,Lois,HTML/CSS/Bootstrap,5,PHP,2,MongoDB,4
+296,Frank,Jquery,2,Servlets,1,Cassandra,5
+297,Donald,Jquery,7,Node,2,Cassandra,1
+298,Eric,Angular,9,PHP,6,Cassandra,10
+299,Robert,Jquery,3,Servlets,9,Cassandra,8
+300,Judy,Jquery,6,PHP,8,Cassandra,5
+301,Gary,Jquery,1,PHP,7,MongoDB,1
+302,Larry,HTML/CSS/Bootstrap,6,Servlets,10,Oracle SQL,6
+303,Johnny,HTML/CSS/Bootstrap,9,Servlets,2,Cassandra,7
+304,Edward,Angular,8,PHP,6,Oracle SQL,9
+305,Judy,Angular,7,PHP,3,MySQL,8
+306,Sean,HTML/CSS/Bootstrap,5,Node,6,MySQL,9
+307,Judith,HTML/CSS/Bootstrap,8,Node,6,Cassandra,6
+308,Michael,Jquery,3,Servlets,1,Oracle SQL,10
+309,Annie,Angular,6,PHP,6,Oracle SQL,7
+310,Susan,Jquery,4,Node,2,Cassandra,9
+311,Chris,Angular,7,Python,4,Cassandra,9
+312,Shawn,Jquery,4,PHP,1,MySQL,5
+313,Sandra,Angular,1,Servlets,8,Oracle SQL,2
+314,Robin,Angular,4,Python,6,Oracle SQL,7
+315,William,Jquery,5,PHP,7,MySQL,1
+316,Randy,Jquery,2,Python,1,MongoDB,6
+317,Earl,Jquery,6,Servlets,1,MongoDB,2
+318,Kathryn,Jquery,2,PHP,5,Cassandra,7
+319,Roy,Jquery,10,PHP,8,Oracle SQL,8
+320,Nicole,Angular,7,Servlets,7,Cassandra,6
+321,Kathy,Vanilla JavaScript,3,Python,9,Cassandra,3
+322,John,HTML/CSS/Bootstrap,2,Servlets,1,Oracle SQL,3
+323,Edward,Vanilla JavaScript,6,PHP,10,Oracle SQL,5
+324,Michael,Vanilla JavaScript,10,Servlets,3,Cassandra,3
+325,Michael,Angular,8,Python,10,MongoDB,6
+326,Brian,Jquery,3,Servlets,4,Cassandra,10
+327,Martha,HTML/CSS/Bootstrap,6,Node,1,MySQL,7
+328,Jesse,Jquery,6,Node,6,MySQL,10
+329,Walter,Jquery,2,Servlets,10,MongoDB,10
+330,Nancy,Jquery,3,Node,4,MySQL,3
+331,Jessica,Angular,1,Python,4,MongoDB,1
+332,Dennis,HTML/CSS/Bootstrap,4,Node,5,Cassandra,3
+333,Joshua,Angular,6,Servlets,5,MySQL,3
+334,Phyllis,Angular,5,Servlets,1,MySQL,10
+335,Johnny,HTML/CSS/Bootstrap,7,PHP,4,Oracle SQL,1
+336,Brandon,HTML/CSS/Bootstrap,2,Servlets,8,Oracle SQL,8
+337,Anthony,Vanilla JavaScript,10,PHP,6,MongoDB,7
+338,Donna,Jquery,5,Node,4,MongoDB,7
+339,Henry,Angular,9,PHP,8,Oracle SQL,6
+340,Dorothy,Vanilla JavaScript,8,Servlets,10,MySQL,5
+341,Richard,Vanilla JavaScript,10,Servlets,9,Cassandra,3
+342,Douglas,Jquery,3,PHP,5,MongoDB,7
+343,Amanda,Vanilla JavaScript,6,Python,7,Cassandra,5
+344,Ernest,Angular,4,Servlets,10,MySQL,4
+345,Jerry,Vanilla JavaScript,2,PHP,8,Oracle SQL,7
+346,Brenda,Angular,4,Node,9,MySQL,10
+347,Walter,HTML/CSS/Bootstrap,2,PHP,5,Oracle SQL,5
+348,Jeremy,Jquery,4,Node,5,MySQL,7
+349,Stephen,Vanilla JavaScript,10,Servlets,1,Cassandra,6
+350,Lillian,Vanilla JavaScript,7,Python,7,MySQL,9
+351,Kelly,Vanilla JavaScript,10,Python,3,MySQL,7
+352,Larry,Jquery,9,Servlets,5,Cassandra,5
+353,Katherine,Angular,5,PHP,6,Cassandra,5
+354,Peter,Angular,3,Python,5,Oracle SQL,1
+355,Earl,Vanilla JavaScript,6,PHP,4,Oracle SQL,2
+356,Ralph,Vanilla JavaScript,1,Python,5,MongoDB,2
+357,Melissa,HTML/CSS/Bootstrap,1,Python,4,MongoDB,3
+358,Jesse,Jquery,4,Servlets,9,MongoDB,5
+359,Cheryl,Angular,7,Node,2,MySQL,2
+360,Kathleen,Angular,2,Servlets,2,MongoDB,8
+361,Joan,Angular,3,Servlets,10,Oracle SQL,4
+362,Rebecca,HTML/CSS/Bootstrap,7,PHP,9,MongoDB,3
+363,John,Angular,5,Servlets,2,Cassandra,8
+364,Donna,Vanilla JavaScript,4,PHP,9,MongoDB,9
+365,Jane,HTML/CSS/Bootstrap,6,Node,3,MongoDB,4
+366,Brenda,Vanilla JavaScript,2,Python,5,MongoDB,6
+367,Ashley,Jquery,9,Servlets,6,Cassandra,10
+368,Shawn,Vanilla JavaScript,10,Python,4,Oracle SQL,2
+369,Kathleen,Angular,9,Python,5,MongoDB,7
+370,Amy,Jquery,6,Servlets,8,MySQL,10
+371,Wanda,Vanilla JavaScript,8,Servlets,1,MySQL,8
+372,Phillip,Jquery,7,Servlets,2,MongoDB,5
+373,Keith,Vanilla JavaScript,3,Python,3,MySQL,8
+374,Katherine,Jquery,7,Python,10,MongoDB,6
+375,Sara,Jquery,6,Python,1,Oracle SQL,9
+376,George,Vanilla JavaScript,5,Node,6,MongoDB,1
+377,Linda,Jquery,4,Node,1,Oracle SQL,6
+378,Roy,Jquery,9,Python,5,MySQL,7
+379,Norma,HTML/CSS/Bootstrap,3,Servlets,8,Cassandra,2
+380,Willie,Vanilla JavaScript,4,Node,7,MongoDB,2
+381,Patrick,Vanilla JavaScript,7,Python,4,MongoDB,6
+382,Gloria,Vanilla JavaScript,9,Python,2,MongoDB,4
+383,Bobby,HTML/CSS/Bootstrap,9,Servlets,3,MongoDB,6
+384,Elizabeth,Vanilla JavaScript,9,Servlets,9,MySQL,7
+385,Diana,Vanilla JavaScript,2,PHP,10,MySQL,7
+386,Ronald,Jquery,8,PHP,9,Oracle SQL,1
+387,Paul,Vanilla JavaScript,8,Python,5,MongoDB,2
+388,Gerald,Jquery,2,Node,4,MySQL,6
+389,Louise,Vanilla JavaScript,4,Python,4,MySQL,10
+390,Sara,Vanilla JavaScript,3,Node,2,MongoDB,4
+391,Peter,HTML/CSS/Bootstrap,10,PHP,7,MySQL,6
+392,Gregory,Jquery,2,Python,2,Cassandra,2
+393,Ralph,HTML/CSS/Bootstrap,5,Node,3,MongoDB,1
+394,Ruby,Jquery,9,Servlets,4,Cassandra,2
+395,Jason,HTML/CSS/Bootstrap,1,Python,2,MongoDB,9
+396,Carlos,Jquery,5,PHP,8,Cassandra,3
+397,Philip,Angular,1,Python,9,MySQL,8
+398,Larry,Jquery,8,PHP,3,Oracle SQL,5
+399,Kathleen,Angular,2,Servlets,10,MySQL,9
+400,Kathryn,HTML/CSS/Bootstrap,9,Servlets,2,MySQL,4
+401,Wanda,Angular,6,Python,3,MySQL,7
+402,Tina,Vanilla JavaScript,2,Servlets,10,MySQL,3
+403,Carolyn,Jquery,3,Servlets,7,Cassandra,5
+404,Juan,Vanilla JavaScript,10,Servlets,7,Oracle SQL,9
+405,James,Vanilla JavaScript,6,PHP,9,MongoDB,5
+406,Pamela,Vanilla JavaScript,4,PHP,10,MySQL,1
+407,Philip,Jquery,7,PHP,3,Oracle SQL,9
+408,Paula,HTML/CSS/Bootstrap,9,Node,8,MongoDB,1
+409,Debra,HTML/CSS/Bootstrap,5,Servlets,10,Cassandra,10
+410,Ryan,Angular,10,PHP,9,MySQL,10
+411,Ruth,Angular,4,Python,3,Oracle SQL,3
+412,Douglas,Angular,9,Servlets,3,Cassandra,5
+413,Craig,HTML/CSS/Bootstrap,7,Node,4,MongoDB,6
+414,Scott,Angular,1,PHP,4,MySQL,6
+415,Kimberly,Angular,5,Servlets,4,MySQL,5
+416,Brian,Jquery,10,Node,1,Oracle SQL,2
+417,Chris,Jquery,3,Servlets,2,Oracle SQL,8
+418,Ronald,Jquery,7,Servlets,6,MongoDB,10
+419,Jeffrey,Vanilla JavaScript,4,Node,5,Cassandra,1
+420,Jane,HTML/CSS/Bootstrap,2,Node,10,MongoDB,4
+421,James,Vanilla JavaScript,1,Node,4,Oracle SQL,6
+422,Ralph,Vanilla JavaScript,6,PHP,7,Oracle SQL,2
+423,Larry,Jquery,8,Node,6,Oracle SQL,8
+424,Dorothy,Angular,2,Servlets,6,MongoDB,6
+425,Bruce,HTML/CSS/Bootstrap,8,Python,8,Oracle SQL,1
+426,Bruce,Angular,1,Servlets,7,Oracle SQL,3
+427,Katherine,Angular,5,Node,1,MySQL,5
+428,Eric,Vanilla JavaScript,7,PHP,8,Oracle SQL,9
+429,Steven,HTML/CSS/Bootstrap,7,Servlets,2,Cassandra,8
+430,Helen,HTML/CSS/Bootstrap,8,Servlets,3,Oracle SQL,10
+431,Fred,Vanilla JavaScript,1,Python,6,MongoDB,5
+432,Jennifer,Vanilla JavaScript,2,Servlets,3,MongoDB,4
+433,Kathleen,HTML/CSS/Bootstrap,3,Servlets,3,Oracle SQL,7
+434,Christopher,Jquery,2,PHP,5,MongoDB,10
+435,Samuel,Jquery,7,Servlets,6,Cassandra,6
+436,Julie,HTML/CSS/Bootstrap,9,PHP,9,Oracle SQL,9
+437,Louis,HTML/CSS/Bootstrap,7,PHP,3,MongoDB,2
+438,Todd,Jquery,9,Node,10,MySQL,7
+439,Jonathan,Angular,1,PHP,2,Oracle SQL,10
+440,Brian,Angular,8,Node,2,Oracle SQL,1
+441,Anna,Jquery,9,Node,3,MongoDB,6
+442,Patricia,Angular,10,Servlets,2,Cassandra,7
+443,Albert,Jquery,5,Python,10,MongoDB,1
+444,Ashley,HTML/CSS/Bootstrap,9,Servlets,6,MySQL,5
+445,Rose,Vanilla JavaScript,3,Servlets,9,Oracle SQL,6
+446,Mark,Jquery,9,Servlets,10,MySQL,8
+447,Kathleen,Angular,5,Node,6,MySQL,1
+448,Emily,HTML/CSS/Bootstrap,10,Node,4,Oracle SQL,2
+449,Charles,Jquery,8,PHP,9,Oracle SQL,10
+450,Joan,HTML/CSS/Bootstrap,6,Python,3,Cassandra,3
+451,Adam,Vanilla JavaScript,8,Servlets,4,Cassandra,8
+452,Joshua,Angular,4,Servlets,5,MongoDB,8
+453,Kevin,Jquery,6,Servlets,1,MySQL,8
+454,Keith,HTML/CSS/Bootstrap,4,Python,9,Oracle SQL,10
+455,Eric,Vanilla JavaScript,9,Python,9,Cassandra,9
+456,Wayne,Vanilla JavaScript,8,Python,9,MongoDB,4
+457,Keith,Jquery,10,PHP,7,Oracle SQL,8
+458,Donald,Jquery,2,Python,6,Cassandra,6
+459,Shirley,Vanilla JavaScript,2,PHP,8,MongoDB,1
+460,Dorothy,Vanilla JavaScript,4,PHP,6,MySQL,6
+461,Helen,HTML/CSS/Bootstrap,5,Python,1,Cassandra,8
+462,Jose,Vanilla JavaScript,5,Node,8,MySQL,10
+463,William,Angular,6,PHP,4,Oracle SQL,2
+464,Chris,HTML/CSS/Bootstrap,3,Servlets,5,Cassandra,2
+465,Edward,HTML/CSS/Bootstrap,7,Servlets,5,MongoDB,3
+466,Jack,HTML/CSS/Bootstrap,1,Servlets,9,Cassandra,2
+467,Arthur,Vanilla JavaScript,8,Servlets,5,MySQL,10
+468,Lori,HTML/CSS/Bootstrap,8,PHP,5,Cassandra,3
+469,Jacqueline,Angular,6,Servlets,8,MySQL,4
+470,Randy,Angular,1,Servlets,8,Cassandra,9
+471,Helen,Angular,7,Node,7,MySQL,2
+472,Jacqueline,Jquery,5,Servlets,8,MySQL,6
+473,Amanda,HTML/CSS/Bootstrap,1,Servlets,5,Cassandra,2
+474,Brian,HTML/CSS/Bootstrap,5,Node,10,MySQL,7
+475,Wayne,HTML/CSS/Bootstrap,7,Servlets,3,MySQL,10
+476,Daniel,Vanilla JavaScript,10,PHP,4,MySQL,4
+477,Maria,Vanilla JavaScript,10,PHP,3,Cassandra,7
+478,Amanda,Jquery,4,PHP,5,Oracle SQL,4
+479,Irene,Jquery,1,PHP,7,MongoDB,5
+480,Fred,HTML/CSS/Bootstrap,8,Servlets,3,Cassandra,7
+481,Arthur,HTML/CSS/Bootstrap,5,Node,5,MongoDB,2
+482,Amanda,HTML/CSS/Bootstrap,5,Python,9,MongoDB,6
+483,Eric,Vanilla JavaScript,3,PHP,3,Oracle SQL,1
+484,Bruce,Vanilla JavaScript,6,Node,10,Cassandra,6
+485,Norma,HTML/CSS/Bootstrap,5,PHP,2,MySQL,3
+486,Donald,Angular,5,Python,8,Cassandra,1
+487,Doris,HTML/CSS/Bootstrap,7,Python,2,MySQL,1
+488,Patrick,HTML/CSS/Bootstrap,10,Node,1,Cassandra,5
+489,Denise,Vanilla JavaScript,10,Servlets,9,Oracle SQL,7
+490,Elizabeth,HTML/CSS/Bootstrap,3,Python,1,Cassandra,5
+491,Kathy,Vanilla JavaScript,2,Python,3,Cassandra,3
+492,Mildred,Angular,2,Node,6,MongoDB,5
+493,Raymond,Vanilla JavaScript,5,Servlets,7,Oracle SQL,8
+494,Sandra,Jquery,3,PHP,3,Oracle SQL,1
+495,Judith,Vanilla JavaScript,7,PHP,10,Cassandra,4
+496,Peter,Vanilla JavaScript,2,Python,1,Cassandra,8
+497,Jimmy,Angular,2,PHP,6,MySQL,1
+498,Brandon,Vanilla JavaScript,5,Node,1,MySQL,1
+499,Jose,HTML/CSS/Bootstrap,6,Python,4,MySQL,1
+500,Jeremy,Angular,4,PHP,8,MongoDB,2
+501,Randy,Vanilla JavaScript,10,Servlets,8,MySQL,6
+502,Brian,HTML/CSS/Bootstrap,6,Servlets,2,Oracle SQL,6
+503,Dorothy,Vanilla JavaScript,7,Servlets,7,Oracle SQL,1
+504,Marie,Jquery,3,Python,1,Oracle SQL,4
+505,Donald,HTML/CSS/Bootstrap,7,Node,2,MongoDB,4
+506,Justin,Vanilla JavaScript,7,Python,2,MongoDB,4
+507,Elizabeth,Vanilla JavaScript,6,Servlets,7,MySQL,6
+508,Lori,Vanilla JavaScript,9,Node,5,MySQL,9
+509,Ralph,Vanilla JavaScript,7,Python,3,Oracle SQL,3
+510,Sandra,Jquery,8,Python,2,Cassandra,1
+511,Marie,Vanilla JavaScript,8,Servlets,1,MySQL,7
+512,Cynthia,HTML/CSS/Bootstrap,9,Servlets,2,Cassandra,1
+513,Rebecca,Vanilla JavaScript,2,Servlets,3,Cassandra,10
+514,Frank,Vanilla JavaScript,10,Node,3,Cassandra,1
+515,Juan,Jquery,9,Python,1,MongoDB,6
+516,Judy,Angular,9,Node,8,MongoDB,4
+517,Ann,Vanilla JavaScript,3,Servlets,1,MySQL,10
+518,Eugene,HTML/CSS/Bootstrap,6,Servlets,3,Oracle SQL,1
+519,Richard,Vanilla JavaScript,10,Servlets,6,MongoDB,2
+520,Sarah,HTML/CSS/Bootstrap,1,Python,8,MongoDB,3
+521,Michelle,Angular,1,Python,8,MySQL,3
+522,Sara,Jquery,7,PHP,3,Oracle SQL,5
+523,Marie,Angular,3,Node,7,Oracle SQL,3
+524,Amy,Angular,9,PHP,10,Cassandra,10
+525,David,Angular,4,PHP,7,MySQL,7
+526,Beverly,HTML/CSS/Bootstrap,3,Servlets,10,Oracle SQL,10
+527,Michael,Vanilla JavaScript,7,Servlets,7,MySQL,1
+528,Samuel,Angular,2,Python,9,Oracle SQL,10
+529,Ryan,HTML/CSS/Bootstrap,7,Node,7,Cassandra,7
+530,Victor,Vanilla JavaScript,5,PHP,6,MongoDB,10
+531,Clarence,Angular,5,Node,8,Oracle SQL,7
+532,Catherine,HTML/CSS/Bootstrap,8,Python,5,Oracle SQL,6
+533,Ruby,HTML/CSS/Bootstrap,9,Servlets,2,MongoDB,5
+534,Teresa,Vanilla JavaScript,8,Python,6,MongoDB,4
+535,Robert,HTML/CSS/Bootstrap,4,Servlets,2,Oracle SQL,6
+536,Ronald,HTML/CSS/Bootstrap,7,Python,10,Oracle SQL,10
+537,Louis,Jquery,7,PHP,10,Oracle SQL,3
+538,Karen,HTML/CSS/Bootstrap,1,Python,3,MySQL,8
+539,Rebecca,Angular,4,Servlets,4,Oracle SQL,10
+540,Kathy,Vanilla JavaScript,9,Python,10,Cassandra,8
+541,Phyllis,Jquery,9,Node,2,MySQL,4
+542,Keith,Vanilla JavaScript,3,Python,5,Cassandra,7
+543,Ronald,Angular,6,Servlets,5,MongoDB,1
+544,Christina,Angular,3,PHP,5,Oracle SQL,9
+545,Stephen,Angular,3,PHP,6,MySQL,6
+546,Nancy,Jquery,2,Node,3,MongoDB,1
+547,Samuel,Jquery,1,PHP,10,Oracle SQL,5
+548,Mildred,Jquery,7,Python,7,Oracle SQL,5
+549,Diana,Angular,10,Servlets,7,MySQL,2
+550,Sara,HTML/CSS/Bootstrap,4,Python,6,Oracle SQL,6
+551,Sandra,Angular,5,PHP,5,Cassandra,9
+552,Nancy,Jquery,10,Servlets,3,MongoDB,8
+553,Harold,HTML/CSS/Bootstrap,4,PHP,7,MySQL,6
+554,Virginia,Jquery,7,Python,10,Oracle SQL,7
+555,Dennis,Jquery,8,Servlets,5,Cassandra,1
+556,Russell,Jquery,5,PHP,5,MongoDB,3
+557,Todd,Jquery,10,PHP,1,Cassandra,5
+558,Patricia,Jquery,5,Python,9,MongoDB,6
+559,Marie,Jquery,8,PHP,3,Cassandra,1
+560,Matthew,Angular,3,Servlets,8,Oracle SQL,8
+561,Ryan,HTML/CSS/Bootstrap,5,PHP,9,MySQL,4
+562,Raymond,Angular,6,Servlets,2,Oracle SQL,4
+563,Daniel,Jquery,9,PHP,8,MySQL,5
+564,Timothy,Angular,5,Python,3,MongoDB,3
+565,Lisa,Vanilla JavaScript,10,PHP,3,Oracle SQL,5
+566,Barbara,Vanilla JavaScript,2,PHP,5,Cassandra,6
+567,Philip,Vanilla JavaScript,3,Node,9,MongoDB,3
+568,Deborah,Angular,2,PHP,6,MongoDB,3
+569,Gerald,HTML/CSS/Bootstrap,8,Node,7,Cassandra,3
+570,Evelyn,Angular,6,Servlets,1,Cassandra,1
+571,Jessica,Angular,6,Python,3,Oracle SQL,10
+572,Robert,HTML/CSS/Bootstrap,7,Servlets,10,Oracle SQL,3
+573,Mildred,HTML/CSS/Bootstrap,4,Python,3,Cassandra,4
+574,Amanda,Angular,9,PHP,4,MongoDB,8
+575,Aaron,Jquery,3,Python,1,Oracle SQL,3
+576,Joe,Vanilla JavaScript,3,Python,3,MongoDB,3
+577,Benjamin,Angular,5,Servlets,1,Cassandra,8
+578,Evelyn,HTML/CSS/Bootstrap,6,PHP,6,MongoDB,6
+579,William,Jquery,4,Node,1,Oracle SQL,1
+580,Russell,Angular,6,PHP,5,Cassandra,5
+581,Anna,HTML/CSS/Bootstrap,4,PHP,9,Oracle SQL,9
+582,Eric,Angular,9,Servlets,4,Oracle SQL,1
+583,Cheryl,Angular,1,Node,3,MySQL,1
+584,Sarah,Jquery,8,Node,1,MySQL,3
+585,Tina,Jquery,4,Node,7,Cassandra,3
+586,Annie,HTML/CSS/Bootstrap,5,Node,1,MongoDB,6
+587,John,Jquery,7,Node,7,Oracle SQL,5
+588,Michelle,Jquery,5,PHP,8,Oracle SQL,6
+589,Timothy,Angular,10,Python,3,MySQL,10
+590,Rachel,HTML/CSS/Bootstrap,4,Servlets,1,MongoDB,6
+591,Roy,HTML/CSS/Bootstrap,7,Python,5,MySQL,9
+592,Jack,Jquery,3,PHP,7,MongoDB,3
+593,Anna,Jquery,10,Node,1,MongoDB,5
+594,Anna,HTML/CSS/Bootstrap,1,Servlets,2,Oracle SQL,9
+595,Kevin,Vanilla JavaScript,6,Servlets,7,Cassandra,5
+596,Judith,Vanilla JavaScript,9,Servlets,2,MySQL,7
+597,John,HTML/CSS/Bootstrap,8,Node,3,Cassandra,8
+598,Thomas,HTML/CSS/Bootstrap,9,Servlets,7,Cassandra,9
+599,Richard,Jquery,6,Node,8,Cassandra,8
+600,Lori,Vanilla JavaScript,3,Node,8,Oracle SQL,8
+601,Pamela,Jquery,8,Python,10,MySQL,10
+602,Ann,Angular,8,Servlets,4,Oracle SQL,9
+603,Johnny,Angular,2,Python,3,Cassandra,6
+604,Michael,Jquery,1,Python,2,Cassandra,1
+605,Barbara,Angular,2,Servlets,6,Cassandra,7
+606,Christine,Angular,7,Servlets,4,Cassandra,6
+607,Keith,Vanilla JavaScript,8,Servlets,3,Cassandra,9
+608,Bonnie,HTML/CSS/Bootstrap,8,Node,6,MongoDB,3
+609,Carl,Jquery,8,Node,10,MongoDB,2
+610,Christine,HTML/CSS/Bootstrap,8,Servlets,3,MySQL,1
+611,Norma,Jquery,10,PHP,4,Cassandra,5
+612,Christopher,HTML/CSS/Bootstrap,8,Servlets,5,Cassandra,6
+613,Lois,Vanilla JavaScript,9,Python,4,MongoDB,6
+614,Betty,Vanilla JavaScript,1,Servlets,9,MongoDB,1
+615,Gloria,HTML/CSS/Bootstrap,4,Node,6,MongoDB,4
+616,Diane,Jquery,4,Node,9,Cassandra,9
+617,Mildred,Vanilla JavaScript,9,Servlets,2,MongoDB,9
+618,Evelyn,Jquery,1,PHP,4,MongoDB,7
+619,Eric,Angular,10,Python,1,Oracle SQL,4
+620,Jose,Vanilla JavaScript,7,Servlets,5,MySQL,7
+621,Martha,Jquery,3,Servlets,6,Cassandra,10
+622,Kathy,Jquery,5,Servlets,1,Cassandra,6
+623,Beverly,Angular,9,Servlets,5,MySQL,3
+624,Deborah,HTML/CSS/Bootstrap,2,PHP,4,Cassandra,3
+625,Betty,HTML/CSS/Bootstrap,4,Servlets,3,Oracle SQL,4
+626,Ryan,Angular,10,Node,5,MongoDB,5
+627,Virginia,Vanilla JavaScript,3,Python,8,Cassandra,4
+628,Juan,HTML/CSS/Bootstrap,7,PHP,9,MySQL,6
+629,Fred,Angular,7,Node,10,Oracle SQL,4
+630,Bruce,Angular,2,PHP,9,Cassandra,1
+631,David,Jquery,6,Python,7,MySQL,9
+632,Victor,Jquery,2,Node,1,Oracle SQL,5
+633,Joshua,Vanilla JavaScript,4,Node,2,Oracle SQL,6
+634,Patrick,HTML/CSS/Bootstrap,3,PHP,4,MongoDB,5
+635,Anna,Vanilla JavaScript,2,Python,2,MongoDB,8
+636,Robert,HTML/CSS/Bootstrap,9,Servlets,6,Oracle SQL,10
+637,Steven,HTML/CSS/Bootstrap,9,PHP,7,Oracle SQL,5
+638,Terry,Vanilla JavaScript,7,Node,1,MySQL,10
+639,Aaron,Jquery,4,PHP,9,Oracle SQL,6
+640,Lisa,Jquery,10,Servlets,8,Oracle SQL,10
+641,Patrick,Angular,9,Node,1,MongoDB,1
+642,Victor,HTML/CSS/Bootstrap,7,Python,5,Cassandra,2
+643,Phyllis,Jquery,5,Python,3,Oracle SQL,4
+644,Katherine,HTML/CSS/Bootstrap,8,Node,8,MySQL,9
+645,Walter,Vanilla JavaScript,5,Python,8,Cassandra,8
+646,Albert,Jquery,5,Python,10,MySQL,10
+647,Craig,Jquery,3,PHP,7,Cassandra,6
+648,Evelyn,Jquery,4,PHP,2,MySQL,1
+649,Robert,Vanilla JavaScript,9,PHP,6,MySQL,5
+650,Donna,Jquery,7,PHP,5,MySQL,8
+651,Michael,Vanilla JavaScript,9,PHP,1,Cassandra,6
+652,Jesse,HTML/CSS/Bootstrap,8,Node,1,MySQL,2
+653,Mildred,Jquery,7,PHP,4,MySQL,3
+654,Willie,Vanilla JavaScript,10,Python,4,MongoDB,4
+655,Doris,Jquery,3,Servlets,5,Oracle SQL,9
+656,John,Jquery,10,Node,7,MySQL,3
+657,Sara,HTML/CSS/Bootstrap,1,Node,2,MongoDB,10
+658,Sharon,Angular,8,Servlets,10,MongoDB,6
+659,Rachel,HTML/CSS/Bootstrap,3,PHP,6,MySQL,4
+660,Alice,Angular,2,Servlets,1,Cassandra,8
+661,Jesse,Angular,6,Python,9,Cassandra,6
+662,Andrew,Jquery,3,PHP,8,Cassandra,6
+663,Mildred,Jquery,8,Servlets,10,MySQL,6
+664,James,Angular,6,Node,6,Oracle SQL,2
+665,Harold,Angular,3,PHP,10,MySQL,8
+666,Nicole,HTML/CSS/Bootstrap,4,PHP,5,Oracle SQL,5
+667,Dennis,Angular,9,Python,2,Cassandra,6
+668,Amanda,Vanilla JavaScript,2,Node,5,MySQL,2
+669,Steve,Vanilla JavaScript,2,Servlets,8,MongoDB,6
+670,Carl,Jquery,10,Python,7,Cassandra,9
+671,Stephanie,Jquery,8,PHP,5,MongoDB,5
+672,Terry,HTML/CSS/Bootstrap,1,Servlets,10,MySQL,3
+673,Antonio,Vanilla JavaScript,2,PHP,4,MongoDB,7
+674,Gary,HTML/CSS/Bootstrap,1,Servlets,7,MongoDB,2
+675,Kevin,Angular,1,Servlets,3,MySQL,4
+676,Jeffrey,Jquery,2,Servlets,2,Cassandra,9
+677,Walter,HTML/CSS/Bootstrap,6,PHP,9,MySQL,9
+678,Judy,HTML/CSS/Bootstrap,4,Node,5,MongoDB,4
+679,Amy,Jquery,2,Python,2,MongoDB,6
+680,Amanda,Vanilla JavaScript,7,PHP,6,Oracle SQL,1
+681,Terry,Jquery,10,Servlets,1,Oracle SQL,1
+682,Johnny,Vanilla JavaScript,8,Servlets,2,MongoDB,1
+683,Patrick,Angular,9,Python,9,Oracle SQL,2
+684,Jacqueline,Jquery,2,Node,3,Oracle SQL,4
+685,David,Jquery,7,PHP,2,Oracle SQL,9
+686,John,Vanilla JavaScript,10,Servlets,4,Cassandra,9
+687,Kevin,Jquery,1,Python,1,MySQL,4
+688,Johnny,Jquery,5,Python,8,MongoDB,8
+689,Ruby,Vanilla JavaScript,5,Python,6,MySQL,7
+690,Annie,HTML/CSS/Bootstrap,9,Python,5,MongoDB,10
+691,Andrew,Angular,2,Python,5,MongoDB,2
+692,Chris,HTML/CSS/Bootstrap,3,Servlets,4,Cassandra,8
+693,Kelly,Jquery,8,Node,6,Oracle SQL,8
+694,Steven,Vanilla JavaScript,6,Servlets,3,MySQL,4
+695,Teresa,Angular,8,Servlets,4,MongoDB,7
+696,Nancy,Angular,6,Servlets,3,Oracle SQL,9
+697,Nicole,Angular,7,PHP,2,MySQL,9
+698,Roger,Vanilla JavaScript,5,Python,6,MongoDB,9
+699,Todd,Angular,6,Node,4,Oracle SQL,10
+700,Dennis,Jquery,3,Servlets,1,MongoDB,6
+701,Antonio,HTML/CSS/Bootstrap,8,Node,9,Oracle SQL,9
+702,Lillian,HTML/CSS/Bootstrap,8,Servlets,6,Cassandra,1
+703,Ann,Jquery,4,Python,9,Oracle SQL,4
+704,Debra,HTML/CSS/Bootstrap,1,Servlets,10,MongoDB,8
+705,Ralph,Angular,8,PHP,8,MySQL,5
+706,Brandon,Vanilla JavaScript,10,Servlets,6,Oracle SQL,7
+707,Marie,Angular,4,Servlets,6,Oracle SQL,9
+708,Tammy,Jquery,3,Servlets,5,Cassandra,10
+709,Earl,Vanilla JavaScript,8,Python,1,MySQL,8
+710,Jesse,Vanilla JavaScript,7,Python,3,MongoDB,4
+711,Christine,Vanilla JavaScript,4,PHP,9,Oracle SQL,9
+712,Michael,Jquery,10,Servlets,9,MongoDB,6
+713,Wanda,Vanilla JavaScript,6,Python,8,Cassandra,5
+714,Rachel,Vanilla JavaScript,10,Servlets,1,Oracle SQL,2
+715,Jane,Jquery,6,Python,8,Oracle SQL,3
+716,Katherine,Angular,3,PHP,7,MongoDB,2
+717,Richard,Jquery,8,Node,9,MySQL,9
+718,Philip,Vanilla JavaScript,8,PHP,6,Oracle SQL,1
+719,Paula,Vanilla JavaScript,6,Python,10,MongoDB,8
+720,Maria,Jquery,3,Node,5,MongoDB,7
+721,Shirley,Jquery,10,Servlets,2,Oracle SQL,2
+722,Harry,Jquery,8,Node,8,Cassandra,8
+723,Annie,Vanilla JavaScript,10,Python,3,Oracle SQL,8
+724,Joan,HTML/CSS/Bootstrap,1,Python,1,MongoDB,5
+725,Pamela,Jquery,4,PHP,6,MySQL,2
+726,Rose,Jquery,1,Node,5,MySQL,3
+727,Clarence,Vanilla JavaScript,5,PHP,3,MySQL,5
+728,Martha,Angular,9,PHP,5,MongoDB,1
+729,Cynthia,Vanilla JavaScript,9,Servlets,2,Cassandra,2
+730,Lori,Vanilla JavaScript,5,Python,9,MySQL,3
+731,Roy,Angular,8,PHP,3,MySQL,3
+732,Wayne,Vanilla JavaScript,2,Node,6,Oracle SQL,6
+733,Ruby,HTML/CSS/Bootstrap,5,Servlets,6,Cassandra,8
+734,Alice,Angular,10,Servlets,7,Cassandra,2
+735,Jimmy,Jquery,3,Node,1,Oracle SQL,7
+736,Janice,Angular,10,PHP,10,Cassandra,10
+737,Lois,Vanilla JavaScript,8,Node,6,MongoDB,4
+738,Lisa,Jquery,8,Node,2,Cassandra,1
+739,Brandon,HTML/CSS/Bootstrap,2,Servlets,3,MongoDB,1
+740,Betty,HTML/CSS/Bootstrap,3,Python,10,Oracle SQL,4
+741,Jessica,Jquery,2,Node,4,MongoDB,10
+742,Albert,Vanilla JavaScript,7,Python,2,Cassandra,9
+743,Rachel,HTML/CSS/Bootstrap,5,Node,6,Oracle SQL,9
+744,Anne,Jquery,9,PHP,1,Oracle SQL,10
+745,Nicholas,Angular,7,Servlets,9,MySQL,6
+746,Keith,Jquery,5,Python,7,Oracle SQL,4
+747,Jack,Vanilla JavaScript,10,PHP,10,MySQL,10
+748,Jennifer,Angular,10,Servlets,9,Oracle SQL,8
+749,Harold,Angular,1,Node,9,MySQL,1
+750,Rachel,HTML/CSS/Bootstrap,8,PHP,8,Oracle SQL,10
+751,Robert,HTML/CSS/Bootstrap,4,Servlets,3,MongoDB,9
+752,Victor,HTML/CSS/Bootstrap,7,Node,1,Cassandra,10
+753,Earl,Vanilla JavaScript,8,Servlets,1,MongoDB,2
+754,Cynthia,HTML/CSS/Bootstrap,5,PHP,1,MySQL,7
+755,Louise,Jquery,8,PHP,4,MySQL,7
+756,Linda,Vanilla JavaScript,1,Python,1,MySQL,3
+757,Douglas,Vanilla JavaScript,10,PHP,7,Oracle SQL,10
+758,Eric,HTML/CSS/Bootstrap,5,Node,3,Cassandra,8
+759,Donald,Angular,7,Python,1,Oracle SQL,8
+760,Joan,Jquery,7,Servlets,8,Oracle SQL,10
+761,Norma,Jquery,10,Servlets,3,MongoDB,5
+762,Debra,HTML/CSS/Bootstrap,6,PHP,1,MySQL,4
+763,Henry,HTML/CSS/Bootstrap,7,Node,1,Oracle SQL,3
+764,Kathleen,Angular,3,PHP,6,MySQL,10
+765,Bonnie,Angular,4,Node,3,MySQL,3
+766,Tina,HTML/CSS/Bootstrap,5,Python,3,MongoDB,5
+767,Marilyn,Jquery,10,Node,6,Cassandra,10
+768,Andrew,Angular,7,Python,9,MySQL,7
+769,Kathleen,Jquery,6,Node,2,Cassandra,7
+770,Willie,Angular,3,Node,3,MongoDB,4
+771,Phyllis,Vanilla JavaScript,6,PHP,9,MongoDB,4
+772,Ruth,HTML/CSS/Bootstrap,10,Servlets,4,Oracle SQL,5
+773,Ronald,Jquery,1,Servlets,10,MongoDB,7
+774,Eric,HTML/CSS/Bootstrap,5,Node,6,Oracle SQL,2
+775,Ryan,Angular,7,Servlets,10,MySQL,8
+776,Nancy,Vanilla JavaScript,2,Node,2,Oracle SQL,7
+777,Shawn,Angular,8,Node,3,MongoDB,2
+778,Jack,Jquery,5,Python,4,Oracle SQL,4
+779,Roy,HTML/CSS/Bootstrap,1,Servlets,1,Oracle SQL,10
+780,Ann,Angular,4,Node,9,MongoDB,8
+781,Jean,Vanilla JavaScript,9,PHP,2,MySQL,8
+782,Donald,Angular,3,Servlets,10,MySQL,3
+783,Terry,HTML/CSS/Bootstrap,5,Python,5,Oracle SQL,4
+784,Stephen,Angular,5,Python,1,Oracle SQL,4
+785,Billy,HTML/CSS/Bootstrap,10,PHP,5,Cassandra,2
+786,Wanda,Vanilla JavaScript,7,Node,1,MongoDB,5
+787,Dorothy,Jquery,5,Python,7,Cassandra,8
+788,Daniel,HTML/CSS/Bootstrap,1,Node,7,MySQL,10
+789,Maria,Vanilla JavaScript,9,Servlets,3,MySQL,6
+790,Cynthia,HTML/CSS/Bootstrap,3,Python,9,Cassandra,1
+791,Willie,Angular,10,Node,3,MongoDB,2
+792,Brenda,HTML/CSS/Bootstrap,1,PHP,7,Cassandra,10
+793,Richard,Angular,6,PHP,8,MongoDB,2
+794,Walter,Jquery,8,Node,8,MySQL,7
+795,Shirley,Vanilla JavaScript,8,PHP,9,MySQL,9
+796,Roger,Angular,5,Servlets,10,Cassandra,4
+797,Julie,Angular,9,PHP,6,Oracle SQL,5
+798,Chris,HTML/CSS/Bootstrap,6,PHP,7,Cassandra,10
+799,Barbara,Angular,9,Servlets,4,MySQL,1
+800,Judith,Jquery,4,Servlets,1,MongoDB,8
+801,Cheryl,Angular,7,Node,8,MongoDB,9
+802,Nancy,HTML/CSS/Bootstrap,7,PHP,7,MongoDB,1
+803,Victor,Angular,1,Servlets,4,Oracle SQL,3
+804,Todd,HTML/CSS/Bootstrap,8,Python,5,Cassandra,3
+805,Eugene,HTML/CSS/Bootstrap,9,PHP,7,MongoDB,2
+806,Samuel,Jquery,9,Python,9,Oracle SQL,2
+807,Frank,Jquery,8,Servlets,8,Oracle SQL,6
+808,Carl,Vanilla JavaScript,10,Node,4,MySQL,4
+809,George,Jquery,8,Python,1,Cassandra,6
+810,Cynthia,Jquery,3,Python,1,MySQL,1
+811,Peter,HTML/CSS/Bootstrap,5,Servlets,9,MySQL,3
+812,Martin,Vanilla JavaScript,4,Servlets,1,MongoDB,5
+813,Annie,Vanilla JavaScript,3,Node,6,Oracle SQL,7
+814,Nicole,Jquery,1,Node,4,MongoDB,9
+815,Theresa,Jquery,7,Python,8,MongoDB,9
+816,Jessica,Angular,4,Node,5,MySQL,10
+817,Christopher,Angular,5,Node,4,Oracle SQL,1
+818,Rebecca,Vanilla JavaScript,7,PHP,7,Oracle SQL,2
+819,Ann,Angular,6,PHP,7,MySQL,5
+820,Lisa,Vanilla JavaScript,2,Servlets,10,Oracle SQL,4
+821,Denise,HTML/CSS/Bootstrap,7,Node,3,Cassandra,9
+822,Kathy,Angular,7,PHP,7,Oracle SQL,6
+823,Donna,Vanilla JavaScript,7,Python,5,MySQL,8
+824,Robin,Angular,4,Node,3,Oracle SQL,2
+825,Ruby,Vanilla JavaScript,2,Servlets,8,Oracle SQL,4
+826,Christopher,Angular,4,Node,10,MongoDB,10
+827,Jack,HTML/CSS/Bootstrap,8,Servlets,1,Cassandra,5
+828,Timothy,HTML/CSS/Bootstrap,2,Servlets,3,Oracle SQL,5
+829,Deborah,Angular,6,PHP,4,MySQL,1
+830,Matthew,HTML/CSS/Bootstrap,5,PHP,6,Oracle SQL,6
+831,Ruby,Jquery,6,Node,10,Cassandra,1
+832,Brenda,Angular,3,Python,8,MySQL,4
+833,Phyllis,Jquery,6,Servlets,3,Oracle SQL,3
+834,Jimmy,HTML/CSS/Bootstrap,1,Servlets,2,Cassandra,2
+835,Lillian,Vanilla JavaScript,8,Servlets,3,MongoDB,4
+836,Henry,Vanilla JavaScript,8,Node,2,MongoDB,1
+837,Norma,Vanilla JavaScript,6,Python,8,Oracle SQL,5
+838,Philip,Vanilla JavaScript,8,Node,4,MySQL,8
+839,Catherine,HTML/CSS/Bootstrap,10,Servlets,3,Oracle SQL,5
+840,Todd,HTML/CSS/Bootstrap,7,Python,7,MongoDB,2
+841,Janice,Angular,3,PHP,4,Oracle SQL,5
+842,Marie,Vanilla JavaScript,9,Node,8,Oracle SQL,7
+843,Cynthia,Vanilla JavaScript,4,Node,1,MySQL,5
+844,Lois,Vanilla JavaScript,2,PHP,10,MySQL,1
+845,Phillip,Angular,7,PHP,6,MongoDB,10
+846,Carol,Angular,7,Servlets,9,Cassandra,4
+847,Ralph,Angular,8,Python,1,Cassandra,9
+848,Kenneth,HTML/CSS/Bootstrap,2,Python,5,MongoDB,1
+849,Joyce,Jquery,5,Python,5,MySQL,9
+850,Joseph,Vanilla JavaScript,3,Node,5,Oracle SQL,3
+851,Michelle,Angular,8,Python,2,Oracle SQL,1
+852,Christine,HTML/CSS/Bootstrap,4,Node,4,Cassandra,10
+853,Jose,HTML/CSS/Bootstrap,8,Servlets,8,Cassandra,1
+854,Rose,Angular,7,PHP,8,MongoDB,6
+855,Peter,Jquery,5,Python,9,Cassandra,9
+856,Chris,Vanilla JavaScript,6,Python,9,Cassandra,5
+857,Albert,Jquery,4,Python,1,MongoDB,4
+858,Johnny,HTML/CSS/Bootstrap,8,Python,3,Oracle SQL,2
+859,Sara,HTML/CSS/Bootstrap,8,Servlets,7,Oracle SQL,1
+860,Keith,Vanilla JavaScript,7,PHP,3,MySQL,10
+861,Catherine,HTML/CSS/Bootstrap,10,Servlets,7,MySQL,2
+862,Arthur,HTML/CSS/Bootstrap,5,Node,1,Cassandra,9
+863,Kevin,Vanilla JavaScript,3,PHP,6,Cassandra,1
+864,Clarence,HTML/CSS/Bootstrap,3,Node,10,Oracle SQL,5
+865,Jessica,Jquery,4,PHP,2,Oracle SQL,6
+866,Walter,HTML/CSS/Bootstrap,3,Servlets,9,Oracle SQL,10
+867,Judith,Angular,8,PHP,2,Oracle SQL,7
+868,Randy,Jquery,5,Python,8,MySQL,3
+869,Carol,HTML/CSS/Bootstrap,6,Node,4,Cassandra,3
+870,Kimberly,Vanilla JavaScript,4,Node,4,MySQL,9
+871,Anna,HTML/CSS/Bootstrap,5,Servlets,7,Oracle SQL,4
+872,Gary,HTML/CSS/Bootstrap,9,PHP,2,MongoDB,5
+873,Keith,HTML/CSS/Bootstrap,6,PHP,6,MySQL,3
+874,Heather,Angular,7,Python,9,MySQL,9
+875,Katherine,Vanilla JavaScript,8,Node,8,Cassandra,1
+876,Frances,Angular,6,PHP,4,MySQL,2
+877,Carol,Angular,1,Servlets,5,Oracle SQL,1
+878,Linda,Angular,7,Servlets,6,MySQL,9
+879,Maria,HTML/CSS/Bootstrap,6,Node,3,MySQL,3
+880,Bobby,HTML/CSS/Bootstrap,6,Node,1,MongoDB,6
+881,Kathryn,HTML/CSS/Bootstrap,9,PHP,6,Oracle SQL,9
+882,Louise,HTML/CSS/Bootstrap,10,Python,2,MySQL,10
+883,Steven,Vanilla JavaScript,8,PHP,9,Oracle SQL,8
+884,Anthony,HTML/CSS/Bootstrap,10,Servlets,6,Cassandra,8
+885,Ryan,HTML/CSS/Bootstrap,1,Python,9,MySQL,7
+886,Laura,HTML/CSS/Bootstrap,6,Python,2,MongoDB,1
+887,Martin,Jquery,4,PHP,5,MongoDB,2
+888,Melissa,Vanilla JavaScript,6,Node,9,MongoDB,4
+889,Jane,HTML/CSS/Bootstrap,4,PHP,8,Oracle SQL,8
+890,Anthony,Jquery,8,Servlets,8,Oracle SQL,6
+891,Douglas,Vanilla JavaScript,8,PHP,2,Oracle SQL,8
+892,Carl,Vanilla JavaScript,8,Python,6,Cassandra,4
+893,Shirley,Angular,7,Python,9,Oracle SQL,5
+894,David,HTML/CSS/Bootstrap,4,Servlets,2,MySQL,8
+895,Amanda,Angular,1,Servlets,1,MongoDB,5
+896,Raymond,Vanilla JavaScript,8,PHP,4,MySQL,3
+897,Amy,Vanilla JavaScript,10,Python,3,Oracle SQL,10
+898,Donna,HTML/CSS/Bootstrap,5,Servlets,2,Oracle SQL,1
+899,Peter,Angular,7,PHP,9,Oracle SQL,9
+900,Beverly,HTML/CSS/Bootstrap,9,Python,1,MongoDB,5
+901,Melissa,Vanilla JavaScript,6,Node,3,MongoDB,10
+902,Richard,HTML/CSS/Bootstrap,3,PHP,6,Oracle SQL,3
+903,Wanda,Jquery,2,PHP,6,Cassandra,5
+904,Carlos,Vanilla JavaScript,8,PHP,8,MongoDB,1
+905,Benjamin,Jquery,3,PHP,3,Oracle SQL,6
+906,Aaron,Jquery,4,Python,3,Cassandra,7
+907,Jesse,Angular,4,PHP,10,MongoDB,1
+908,Melissa,HTML/CSS/Bootstrap,10,Node,8,MongoDB,1
+909,Sean,HTML/CSS/Bootstrap,10,Servlets,7,Cassandra,8
+910,Gary,Jquery,2,Node,2,Oracle SQL,7
+911,Charles,Angular,7,Servlets,3,Oracle SQL,3
+912,Jean,HTML/CSS/Bootstrap,7,Python,6,MongoDB,1
+913,Phillip,Angular,5,PHP,1,MySQL,9
+914,Ryan,Angular,7,Node,5,Cassandra,9
+915,Stephen,Jquery,8,Node,8,MongoDB,1
+916,Phyllis,Jquery,1,PHP,9,Cassandra,5
+917,Ryan,HTML/CSS/Bootstrap,8,Python,2,Oracle SQL,9
+918,Jane,Jquery,7,Node,7,MySQL,9
+919,Judy,HTML/CSS/Bootstrap,2,Node,10,MongoDB,7
+920,Louis,Angular,7,PHP,9,MySQL,1
+921,John,Jquery,5,Servlets,10,Cassandra,1
+922,Ronald,HTML/CSS/Bootstrap,1,Python,4,Cassandra,10
+923,Norma,Angular,10,Python,7,Oracle SQL,10
+924,Michelle,Vanilla JavaScript,1,Servlets,3,MongoDB,3
+925,Shawn,Vanilla JavaScript,5,Python,9,Cassandra,7
+926,Pamela,Angular,4,Servlets,7,MySQL,8
+927,Wayne,Angular,5,PHP,3,Cassandra,4
+928,Jessica,HTML/CSS/Bootstrap,2,Python,4,Cassandra,2
+929,Sandra,Angular,8,Servlets,2,Oracle SQL,1
+930,Marie,Vanilla JavaScript,9,Python,6,MongoDB,4
+931,Terry,HTML/CSS/Bootstrap,9,Python,9,MongoDB,10
+932,Ernest,HTML/CSS/Bootstrap,2,Python,1,MySQL,6
+933,Lisa,HTML/CSS/Bootstrap,2,Node,4,Cassandra,5
+934,Theresa,Angular,7,Servlets,3,Oracle SQL,7
+935,Cheryl,Angular,10,Servlets,1,MySQL,1
+936,Susan,Vanilla JavaScript,8,PHP,1,MongoDB,6
+937,Arthur,Jquery,3,Python,6,Cassandra,7
+938,Harold,Angular,2,PHP,2,MySQL,6
+939,Sharon,Angular,3,PHP,1,Oracle SQL,9
+940,Justin,Angular,10,PHP,3,Oracle SQL,10
+941,George,Angular,3,Servlets,9,MongoDB,5
+942,Brenda,Angular,2,PHP,10,Cassandra,9
+943,Scott,Vanilla JavaScript,3,Node,9,Cassandra,2
+944,Timothy,Vanilla JavaScript,4,PHP,5,MongoDB,10
+945,Jennifer,Vanilla JavaScript,3,PHP,9,MySQL,2
+946,Janet,Vanilla JavaScript,6,Node,7,MySQL,3
+947,Alan,Vanilla JavaScript,7,Python,6,MongoDB,2
+948,Kathryn,Vanilla JavaScript,3,Node,9,Oracle SQL,1
+949,Kathryn,Vanilla JavaScript,1,PHP,7,Cassandra,9
+950,Alice,HTML/CSS/Bootstrap,3,Servlets,9,MySQL,1
+951,Cynthia,HTML/CSS/Bootstrap,4,Python,6,Oracle SQL,7
+952,Albert,Angular,9,PHP,5,MongoDB,3
+953,Bonnie,HTML/CSS/Bootstrap,9,PHP,4,Cassandra,2
+954,Rebecca,Jquery,6,Servlets,1,MySQL,2
+955,Fred,Vanilla JavaScript,3,Servlets,10,MongoDB,1
+956,Joe,Angular,5,PHP,4,MySQL,1
+957,Aaron,Jquery,2,Node,6,Oracle SQL,10
+958,Judith,Angular,6,Servlets,4,Cassandra,10
+959,Patricia,Vanilla JavaScript,2,Python,1,Cassandra,8
+960,Martha,Angular,5,Python,8,Cassandra,7
+961,Deborah,Vanilla JavaScript,9,PHP,8,MongoDB,9
+962,Kimberly,Angular,10,Node,8,Oracle SQL,5
+963,Steve,Angular,10,Python,7,MySQL,3
+964,Linda,HTML/CSS/Bootstrap,9,Servlets,9,MySQL,5
+965,Paul,Vanilla JavaScript,3,PHP,5,Oracle SQL,2
+966,Clarence,HTML/CSS/Bootstrap,8,PHP,8,MongoDB,6
+967,Melissa,HTML/CSS/Bootstrap,8,Node,9,MySQL,1
+968,Sara,Vanilla JavaScript,9,Python,9,Cassandra,5
+969,Angela,Jquery,3,Servlets,3,MongoDB,5
+970,Joyce,Vanilla JavaScript,5,Node,4,Cassandra,3
+971,Kelly,Angular,10,Node,9,MySQL,7
+972,Linda,Angular,8,PHP,10,MongoDB,2
+973,Arthur,Jquery,3,Servlets,9,Oracle SQL,4
+974,Joyce,Jquery,3,Node,1,Oracle SQL,9
+975,Jean,Vanilla JavaScript,6,PHP,3,MySQL,10
+976,Linda,Angular,9,Node,9,Cassandra,6
+977,Jennifer,HTML/CSS/Bootstrap,10,Node,3,Oracle SQL,8
+978,Ralph,Angular,5,Node,5,Cassandra,9
+979,Ashley,Angular,6,Servlets,8,Oracle SQL,8
+980,Rebecca,Vanilla JavaScript,10,PHP,7,MongoDB,10
+981,Cheryl,HTML/CSS/Bootstrap,10,Python,6,MySQL,1
+982,Andrea,Jquery,5,Servlets,1,MongoDB,10
+983,Maria,Angular,1,PHP,3,MySQL,7
+984,Clarence,Vanilla JavaScript,8,Python,7,Cassandra,8
+985,Patricia,Angular,2,Python,10,Oracle SQL,2
+986,Christopher,Angular,4,Python,4,Oracle SQL,3
+987,Ralph,Angular,2,Servlets,6,MySQL,5
+988,Michelle,Angular,10,PHP,8,Cassandra,8
+989,Margaret,Angular,7,PHP,10,Cassandra,2
+990,Carolyn,Angular,1,PHP,7,MySQL,8
+991,Raymond,Vanilla JavaScript,7,Servlets,6,Cassandra,4
+992,Larry,Vanilla JavaScript,3,Servlets,4,Cassandra,7
+993,Irene,Jquery,3,Node,4,MongoDB,4
+994,Judith,Angular,1,PHP,4,Oracle SQL,4
+995,Juan,Vanilla JavaScript,8,PHP,8,MongoDB,10
+996,Alan,Jquery,1,PHP,10,Oracle SQL,6
+997,Anthony,Angular,8,Servlets,5,MySQL,7
+998,Matthew,Angular,9,Python,8,MySQL,8
+999,Johnny,Angular,10,PHP,6,MySQL,2
+1000,Lawrence,Angular,6,Servlets,3,MySQL,7
